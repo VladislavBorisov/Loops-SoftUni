@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\SumOfSequence\SumOfSequence\bin\Debug\SumOfSequence.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\SumOfSequence\SumOfSequence\bin\Debug\SumOfSequence.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\SumOfSequence\SumOfSequence\bin\Debug\SumOfSequence.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\SumOfSequence\SumOfSequence\obj\Debug\SumOfSequence.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\SumOfSequence\SumOfSequence\obj\Debug\SumOfSequence.pdb

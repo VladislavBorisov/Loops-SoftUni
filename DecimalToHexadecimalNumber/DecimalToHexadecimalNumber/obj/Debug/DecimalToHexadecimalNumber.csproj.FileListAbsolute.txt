@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\DecimalToHexadecimalNumber\DecimalToHexadecimalNumber\bin\Debug\DecimalToHexadecimalNumber.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\DecimalToHexadecimalNumber\DecimalToHexadecimalNumber\bin\Debug\DecimalToHexadecimalNumber.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\DecimalToHexadecimalNumber\DecimalToHexadecimalNumber\bin\Debug\DecimalToHexadecimalNumber.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\DecimalToHexadecimalNumber\DecimalToHexadecimalNumber\obj\Debug\DecimalToHexadecimalNumber.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\DecimalToHexadecimalNumber\DecimalToHexadecimalNumber\obj\Debug\DecimalToHexadecimalNumber.pdb

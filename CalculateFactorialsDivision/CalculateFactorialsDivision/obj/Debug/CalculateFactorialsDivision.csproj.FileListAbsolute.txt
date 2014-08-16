@@ -1,0 +1,6 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CalculateFactorialsDivision\CalculateFactorialsDivision\bin\Debug\CalculateFactorialsDivision.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CalculateFactorialsDivision\CalculateFactorialsDivision\bin\Debug\CalculateFactorialsDivision.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CalculateFactorialsDivision\CalculateFactorialsDivision\bin\Debug\CalculateFactorialsDivision.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CalculateFactorialsDivision\CalculateFactorialsDivision\obj\Debug\CalculateFactorialsDivision.csprojResolveAssemblyReference.cache
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CalculateFactorialsDivision\CalculateFactorialsDivision\obj\Debug\CalculateFactorialsDivision.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\CalculateFactorialsDivision\CalculateFactorialsDivision\obj\Debug\CalculateFactorialsDivision.pdb

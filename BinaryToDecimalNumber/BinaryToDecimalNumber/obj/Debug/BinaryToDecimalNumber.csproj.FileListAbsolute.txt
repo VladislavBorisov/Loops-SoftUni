@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BinaryToDecimalNumber\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BinaryToDecimalNumber\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BinaryToDecimalNumber\BinaryToDecimalNumber\bin\Debug\BinaryToDecimalNumber.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BinaryToDecimalNumber\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\BinaryToDecimalNumber\BinaryToDecimalNumber\obj\Debug\BinaryToDecimalNumber.pdb

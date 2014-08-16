@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MatrixOfNumbers\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MatrixOfNumbers\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MatrixOfNumbers\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MatrixOfNumbers\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MatrixOfNumbers\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb

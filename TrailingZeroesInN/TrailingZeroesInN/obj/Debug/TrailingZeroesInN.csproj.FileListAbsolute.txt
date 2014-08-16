@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TrailingZeroesInN\TrailingZeroesInN\bin\Debug\TrailingZeroesInN.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TrailingZeroesInN\TrailingZeroesInN\bin\Debug\TrailingZeroesInN.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TrailingZeroesInN\TrailingZeroesInN\bin\Debug\TrailingZeroesInN.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TrailingZeroesInN\TrailingZeroesInN\obj\Debug\TrailingZeroesInN.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\TrailingZeroesInN\TrailingZeroesInN\obj\Debug\TrailingZeroesInN.pdb

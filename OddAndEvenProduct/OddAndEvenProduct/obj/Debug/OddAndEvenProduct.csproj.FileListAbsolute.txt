@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\OddAndEvenProduct\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\OddAndEvenProduct\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\OddAndEvenProduct\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\OddAndEvenProduct\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\OddAndEvenProduct\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb

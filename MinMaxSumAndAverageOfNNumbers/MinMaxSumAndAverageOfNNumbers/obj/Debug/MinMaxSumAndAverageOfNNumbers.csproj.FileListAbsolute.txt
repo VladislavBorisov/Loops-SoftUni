@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MinMaxSumAndAverageOfNNumbers\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MinMaxSumAndAverageOfNNumbers\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MinMaxSumAndAverageOfNNumbers\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MinMaxSumAndAverageOfNNumbers\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\MinMaxSumAndAverageOfNNumbers\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.pdb

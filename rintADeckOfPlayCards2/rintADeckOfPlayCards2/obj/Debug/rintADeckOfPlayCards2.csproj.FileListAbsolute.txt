@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\rintADeckOfPlayCards2\rintADeckOfPlayCards2\bin\Debug\rintADeckOfPlayCards2.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\rintADeckOfPlayCards2\rintADeckOfPlayCards2\bin\Debug\rintADeckOfPlayCards2.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\rintADeckOfPlayCards2\rintADeckOfPlayCards2\bin\Debug\rintADeckOfPlayCards2.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\rintADeckOfPlayCards2\rintADeckOfPlayCards2\obj\Debug\rintADeckOfPlayCards2.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\rintADeckOfPlayCards2\rintADeckOfPlayCards2\obj\Debug\rintADeckOfPlayCards2.pdb

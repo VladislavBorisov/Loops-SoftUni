@@ -1,0 +1,5 @@
+c:\users\sherybedrock\documents\visual studio 2013\Projects\PrintADeckOfPlayCards\PrintADeckOfPlayCards\bin\Debug\PrintADeckOfPlayCards.exe.config
+c:\users\sherybedrock\documents\visual studio 2013\Projects\PrintADeckOfPlayCards\PrintADeckOfPlayCards\bin\Debug\PrintADeckOfPlayCards.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\PrintADeckOfPlayCards\PrintADeckOfPlayCards\bin\Debug\PrintADeckOfPlayCards.pdb
+c:\users\sherybedrock\documents\visual studio 2013\Projects\PrintADeckOfPlayCards\PrintADeckOfPlayCards\obj\Debug\PrintADeckOfPlayCards.exe
+c:\users\sherybedrock\documents\visual studio 2013\Projects\PrintADeckOfPlayCards\PrintADeckOfPlayCards\obj\Debug\PrintADeckOfPlayCards.pdb

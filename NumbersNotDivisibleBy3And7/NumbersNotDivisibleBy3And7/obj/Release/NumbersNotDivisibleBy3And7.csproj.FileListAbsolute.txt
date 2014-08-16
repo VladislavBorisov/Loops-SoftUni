@@ -1,0 +1,5 @@
+C:\Users\sherybedrock\Documents\Visual Studio 2013\Projects\NumbersNotDivisibleBy3And7\NumbersNotDivisibleBy3And7\bin\Release\NumbersNotDivisibleBy3And7.exe.config
+C:\Users\sherybedrock\Documents\Visual Studio 2013\Projects\NumbersNotDivisibleBy3And7\NumbersNotDivisibleBy3And7\bin\Release\NumbersNotDivisibleBy3And7.exe
+C:\Users\sherybedrock\Documents\Visual Studio 2013\Projects\NumbersNotDivisibleBy3And7\NumbersNotDivisibleBy3And7\bin\Release\NumbersNotDivisibleBy3And7.pdb
+C:\Users\sherybedrock\Documents\Visual Studio 2013\Projects\NumbersNotDivisibleBy3And7\NumbersNotDivisibleBy3And7\obj\Release\NumbersNotDivisibleBy3And7.exe
+C:\Users\sherybedrock\Documents\Visual Studio 2013\Projects\NumbersNotDivisibleBy3And7\NumbersNotDivisibleBy3And7\obj\Release\NumbersNotDivisibleBy3And7.pdb
